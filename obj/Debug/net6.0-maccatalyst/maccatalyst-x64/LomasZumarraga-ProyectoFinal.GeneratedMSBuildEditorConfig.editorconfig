@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LomasZumarraga_ProyectoFinal
+build_property.ProjectDir = D:\NO ELIMINAR\Desktop\MZ_MC_Proyecto\Carta_Zumarraga\LomasZumarraga-ProyectoFinal\
+
+[D:/NO ELIMINAR/Desktop/MZ_MC_Proyecto/Carta_Zumarraga/LomasZumarraga-ProyectoFinal/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LomasZumarraga_ProyectoFinal.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/NO ELIMINAR/Desktop/MZ_MC_Proyecto/Carta_Zumarraga/LomasZumarraga-ProyectoFinal/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LomasZumarraga_ProyectoFinal.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/NO ELIMINAR/Desktop/MZ_MC_Proyecto/Carta_Zumarraga/LomasZumarraga-ProyectoFinal/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LomasZumarraga_ProyectoFinal.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/NO ELIMINAR/Desktop/MZ_MC_Proyecto/Carta_Zumarraga/LomasZumarraga-ProyectoFinal/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LomasZumarraga_ProyectoFinal.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/NO ELIMINAR/Desktop/MZ_MC_Proyecto/Carta_Zumarraga/LomasZumarraga-ProyectoFinal/Views/Arte.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LomasZumarraga_ProyectoFinal.Views.Arte.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Arte.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Arte.xaml
+
+[D:/NO ELIMINAR/Desktop/MZ_MC_Proyecto/Carta_Zumarraga/LomasZumarraga-ProyectoFinal/Views/Cultura.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LomasZumarraga_ProyectoFinal.Views.Cultura.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Cultura.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Cultura.xaml
+
+[D:/NO ELIMINAR/Desktop/MZ_MC_Proyecto/Carta_Zumarraga/LomasZumarraga-ProyectoFinal/Views/Deportes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LomasZumarraga_ProyectoFinal.Views.Deportes.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Deportes.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Deportes.xaml
+
+[D:/NO ELIMINAR/Desktop/MZ_MC_Proyecto/Carta_Zumarraga/LomasZumarraga-ProyectoFinal/Views/Inicio.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LomasZumarraga_ProyectoFinal.Views.Inicio.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Inicio.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Inicio.xaml
+
+[D:/NO ELIMINAR/Desktop/MZ_MC_Proyecto/Carta_Zumarraga/LomasZumarraga-ProyectoFinal/Views/Tecnologia.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LomasZumarraga_ProyectoFinal.Views.Tecnologia.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Tecnologia.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Tecnologia.xaml
